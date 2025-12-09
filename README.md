@@ -3,7 +3,7 @@
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Abhishek</a> I'm a final-year **B.E. (AI & DS)** student passionate about bridging the gap between theoretical machine learning models and scalable, deployed data products. My focus is on **end-to-end MLOps** and delivering quantifiable business value through automation and predictive modeling.</font></h3>
 
 <!-- Schedule a 1-on-1 Call Section -->
-<h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
+<h3 align="left"><font size="+2" face="Verdana"></font></h3>
 <p align="left">
   <a href="https://topmate.io/nasiullha_chaudhari" target="_blank" rel="noreferrer"> Book a Call with me! </a>
 </p>
