@@ -1,49 +1,80 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Hi, I'm Abhishek Sharma 👋
 
-###
+### 📊 Data Science Engineer | Building Intelligent, Production-Ready Systems
 
+---
+
+## 🚀 About Me
+
+I'm a final-year **B.E. (AI & DS)** student passionate about bridging the gap between theoretical machine learning models and scalable, deployed data products. My focus is on **end-to-end MLOps** and delivering quantifiable business value through automation and predictive modeling.
+
+* **Role:** Data Science Engineer / ML Engineer
+* **Focus:** Time Series Forecasting, Computer Vision (YOLO), and NLP.
+* **Currently Learning:** Advanced MLOps practices using Kubernetes and distributed data processing (PySpark).
+* **Looking For:** Full-time roles starting July 2026, or a challenging 4-month internship (starting Feb 2026).
+
+---
+
+## 📈 My Skill Stack
+
+| Category | Key Technologies |
+| :--- | :--- |
+| **Programming** | Python (Advanced), SQL (PostgreSQL, MySQL), Git |
+| **Data Science / ML** | NumPy, Pandas, Scikit-learn, Matplotlib/Plotly |
+| **Deep Learning** | **TensorFlow, Keras, PyTorch** (Focus on LSTMs, CNNs) |
+| **Computer Vision** | **YOLOv8**, OpenCV |
+| **Deployment / MLOps**| **Streamlit**, Docker, Flask, CI/CD (GitHub Actions) |
+| **Databases** | MySQL, MongoDB |
+
+---
+
+## 🛠️ Featured Projects
+
+Here are three projects demonstrating my end-to-end capabilities, from modeling to deployment.
+
+### 1. 🏙️ Real-Time Localized AQI Predictor
+* **Description:** A time-series forecasting application that pulls real-time pollution data via API and uses an **LSTM model** to predict Air Quality Index (AQI) for the next 6 hours.
+* **Tech:** TensorFlow/Keras, Streamlit, Plotly, requests, API Integration.
+* **Result:** Achieved a high forecasting accuracy with an **RMSE of [Your RMSE]** on the test set.
+* **
+
+[Image of Time Series Forecast Plot]
+**
+* **[GitHub Repo Link]**
+
+### 2. 🚦 Real-Time Traffic Density Analyzer
+* **Description:** A Computer Vision application that processes video streams using **YOLOv8** to count vehicles and classify traffic density (Low/Medium/High) in real-time.
+* **Tech:** YOLOv8, OpenCV, Streamlit, Python.
+* **Result:** Delivered a deployed web application achieving **[Your FPS] FPS** and an estimated detection accuracy of **[Your Y]% mAP**.
+* ****
+* **[GitHub Repo Link]**
+
+### 3. 📝 Resume ATS Match Scorer
+* **Description:** An NLP application using TF-IDF and Cosine Similarity to score a resume against a job description, helping candidates optimize their documents.
+* **Tech:** SpaCy, Scikit-learn, Flask, HTML/CSS.
+
+---
+
+## 🏆 Achievements & Certifications
+
+* **Competitive Coding:** [Your CodeChef/LeetCode Rating or Rank] (If applicable).
+* **Core Concepts:** Strong grasp of DSA, OOP, and Database Systems (DBMS).
+* **Certifications:**
+    * Introduction to Generative AI Studio – Simplilearn/Google Cloud
+    * Introduction to Data Science – Cisco
+
+---
+
+## 📬 Get In Touch
+
+| Contact Method | Link |
+| :--- | :--- |
+| **LinkedIn** | [Your LinkedIn URL] |
+| **Email** | [Your Email Address] |
+
+***
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <a href="https://github.com/Master-abbhub">
+        <img src="https://github-readme-stats.vercel.app/api?username=Master-abbhub&show_icons=true&theme=buefy" alt="GitHub Stats" />
+    </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
